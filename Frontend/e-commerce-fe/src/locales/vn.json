@@ -1,0 +1,68 @@
+{
+  "common": {
+      "home": "Trang chủ",
+      "login": "Đăng nhập",
+      "register": "Đăng ký",
+      "logout": "Đăng xuất",
+      "profile": "Hồ sơ",
+      "username": "Tên đăng nhập",
+      "password": "Mật khẩu",
+      "email": "Email",
+      "phone_number": "Số điện thoại",
+      "address": "Địa chỉ",
+      "confirm_password": "Xác nhận mật khẩu",
+      "loading": "Đang tải...",
+      "submitting": "Đang gửi...",
+      "error_loading_data": "Lỗi khi tải {data}",
+      "products": "sản phẩm",
+      "product": "sản phẩm",
+      "orders": "đơn hàng",
+      "admin_dashboard": "Trang quản trị Admin",
+      "seller_dashboard": "Trang quản lý Người bán"
+  },
+  "auth": {
+      "login_title": "Đăng nhập vào tài khoản của bạn",
+      "register_title": "Tạo tài khoản mới",
+      "no_account_yet": "Chưa có tài khoản?",
+      "register_here": "Đăng ký tại đây",
+      "already_have_account": "Đã có tài khoản?",
+      "login_here": "Đăng nhập tại đây",
+      "login_failed": "Đăng nhập thất bại. Vui lòng kiểm tra lại thông tin đăng nhập.",
+      "registration_failed": "Đăng ký thất bại. Vui lòng thử lại."
+  },
+  "product": {
+      "loading_products": "Đang tải sản phẩm...",
+      "no_products": "Không tìm thấy sản phẩm nào.",
+      "no_rating": "Chưa có đánh giá",
+      "add_to_cart": "Thêm vào giỏ hàng",
+      "login_to_add": "Đăng nhập để thêm",
+      "out_of_stock": "Hết hàng",
+      "out_of_stock_message": "Hết hàng",
+      "stock": "Tồn kho",
+      "customer_reviews": "Đánh giá của khách hàng",
+      "write_a_review": "Viết đánh giá",
+      "rating": "Đánh giá",
+      "comment": "Bình luận",
+      "submit_review": "Gửi đánh giá",
+      "login_to_review": "Vui lòng đăng nhập để viết đánh giá.",
+      "no_reviews_yet": "Chưa có đánh giá nào.",
+      "product_not_found": "Không tìm thấy sản phẩm."
+  },
+  "profile": {
+      "your_profile": "Hồ sơ của bạn",
+      "no_avatar": "Không có ảnh đại diện",
+      "not_updated": "Chưa cập nhật",
+      "edit_profile": "Chỉnh sửa hồ sơ",
+      "order_history": "Lịch sử đơn hàng",
+      "update_profile": "Cập nhật hồ sơ",
+      "update_profile_success": "Cập nhật hồ sơ thành công!",
+      "update_profile_error": "Cập nhật hồ sơ thất bại."
+  },
+  "order": {
+      "order_id": "Mã đơn hàng",
+      "order_date": "Ngày đặt hàng",
+      "total_amount": "Tổng tiền",
+      "status": "Trạng thái",
+      "no_orders_yet": "Chưa có đơn hàng nào."
+  }
+}
